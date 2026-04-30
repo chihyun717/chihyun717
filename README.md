@@ -2,21 +2,9 @@
 
 ## About Me
 
-I'm a student interested in software development, web development, IoT, and game programming.
+I'm interested in software development, web development, IoT, and game programming.
 
-I enjoy learning by building real projects and improving them step by step.  
-Currently, I am studying programming, embedded systems, and web technologies while creating personal projects.
-
----
-
-## Interests
-
-- Web Development
-- Backend Development
-- IoT
-- Game Programming
-- UI Design
-- Raspberry Pi / Arduino Projects
+I enjoy learning by building real projects and improving them step by step.
 
 ---
 
@@ -41,40 +29,6 @@ Currently, I am studying programming, embedded systems, and web technologies whi
 
 ---
 
-## Portfolio
-
-I'm building my personal portfolio website with GitHub Pages.
-
-🔗 **Portfolio Website**  
-https://chihyun717.github.io/
-
----
-
-## Projects
-
-### Portfolio Website
-
-A personal portfolio website built with HTML, CSS, and GitHub Pages.
-
-- Tech Stack: HTML, CSS, GitHub Pages
-- Website: https://chihyun717.github.io/
-
-### IoT Project
-
-A future project related to Raspberry Pi, Arduino, sensors, and physical computing.
-
-- Tech Stack: Raspberry Pi, Arduino, Python, C/C++
-- Status: Coming Soon
-
-### Game Programming Project
-
-A future game programming project focused on gameplay systems, character movement, and level design.
-
-- Tech Stack: C/C++, SDL, Game Programming
-- Status: Coming Soon
-
----
-
 ## Currently Learning
 
 - Web development basics
@@ -86,21 +40,18 @@ A future game programming project focused on gameplay systems, character movemen
 
 ---
 
-## Goals
+## Portfolio
 
-- Build a clean personal portfolio website
-- Create and document personal projects
-- Improve programming problem-solving skills
-- Learn how to design better user interfaces
-- Build IoT and game programming projects
+I'm building my personal portfolio website with GitHub Pages.
+
+🔗 **Portfolio Website**  
+https://chihyun717.github.io/
 
 ---
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chihyun717&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chihyun717&layout=compact)
 
 ---
 
