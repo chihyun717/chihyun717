@@ -49,12 +49,6 @@ https://chihyun717.github.io/
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chihyun717&show_icons=true&theme=default)
-
----
-
 ## Contact
 
 - GitHub: https://github.com/chihyun717
